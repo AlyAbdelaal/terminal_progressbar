@@ -49,5 +49,3 @@ def try_progress_bar():
         mp.step()
 
 
-
-try_progress_bar()
